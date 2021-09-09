@@ -1,0 +1,2 @@
+class Facturac < ApplicationRecord
+end
